@@ -14,8 +14,8 @@ The app relies on a secret set as the environment variable `JWT_SECRET` to produ
 
 ## .env_file content
 
-JWT_SECRET='myjwtsecret'
-LOG_LEVEL=DEBUG
+* JWT_SECRET='myjwtsecret'
+* LOG_LEVEL=DEBUG
 
 ## Prerequisites
 
